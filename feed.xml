@@ -3,7 +3,7 @@
     <title>Study Rol!</title>
     <link href="https://rahulhegde99.github.io/studyrol/feed.xml" rel="self" />
     <link href="https://rahulhegde99.github.io/studyrol" />
-    <updated>2023-10-29T20:34:36+05:30</updated>
+    <updated>2023-10-29T21:36:14+05:30</updated>
     <author>
         <name>Rol</name>
     </author>
@@ -14,20 +14,23 @@
         <author>
             <name>Rol</name>
         </author>
-        <link href="https://rahulhegde99.github.io/studyrol/hello-world.html"/>
-        <id>https://rahulhegde99.github.io/studyrol/hello-world.html</id>
+        <link href="https://rahulhegde99.github.io/studyrol/hello-world/"/>
+        <id>https://rahulhegde99.github.io/studyrol/hello-world/</id>
+        <media:content url="https://rahulhegde99.github.io/studyrol/media/posts/1/header.png" medium="image" />
             <category term="TOEFL"/>
             <category term="Others"/>
 
-        <updated>2023-10-29T20:34:36+05:30</updated>
+        <updated>2023-10-29T21:36:14+05:30</updated>
             <summary>
                 <![CDATA[
-                    Launching Study Rol! The best study guide for TOEFL.
+                        <img src="https://rahulhegde99.github.io/studyrol/media/posts/1/header.png" alt="" />
+                    Launching Study Rol! The best study guide for TOEFL. Keep an eye out for what we're going to build!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Launching Study Rol! The best study guide for TOEFL.</p>
+                    <p><img src="https://rahulhegde99.github.io/studyrol/media/posts/1/header.png" class="type:primaryImage" alt="" /></p>
+                <p>Launching Study Rol! The best study guide for TOEFL. Keep an eye out for what we're going to build!</p>
             ]]>
         </content>
     </entry>

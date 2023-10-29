@@ -11,11 +11,12 @@
     },
     "items": [
         {
-            "id": "https://rahulhegde99.github.io/studyrol/hello-world.html",
-            "url": "https://rahulhegde99.github.io/studyrol/hello-world.html",
+            "id": "https://rahulhegde99.github.io/studyrol/hello-world/",
+            "url": "https://rahulhegde99.github.io/studyrol/hello-world/",
             "title": "Hello World from Rol!",
-            "summary": "Launching Study Rol! The best study guide for TOEFL.",
-            "content_html": "<p>Launching Study Rol! The best study guide for TOEFL.</p>",
+            "summary": "Launching Study Rol! The best study guide for TOEFL. Keep an eye out for what we're going to build!",
+            "content_html": "<p>Launching Study Rol! The best study guide for TOEFL. Keep an eye out for what we're going to build!</p>",
+            "image": "https://rahulhegde99.github.io/studyrol/media/posts/1/header.png",
             "author": {
                 "name": "Rol"
             },
@@ -24,7 +25,7 @@
                    "Others"
             ],
             "date_published": "2023-10-29T19:17:57+05:30",
-            "date_modified": "2023-10-29T20:34:36+05:30"
+            "date_modified": "2023-10-29T21:36:14+05:30"
         }
     ]
 }
