@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Study Rol!",
+    "description": "",
+    "home_page_url": "https://rahulhegde99.github.io/studyrol",
+    "feed_url": "https://rahulhegde99.github.io/studyrol/feed.json",
+    "user_comment": "",
+    "icon": "https://rahulhegde99.github.io/studyrol/media/website/fulllogo-2.svg",
+    "author": {
+        "name": "Rol"
+    },
+    "items": [
+        {
+            "id": "https://rahulhegde99.github.io/studyrol/hello-world.html",
+            "url": "https://rahulhegde99.github.io/studyrol/hello-world.html",
+            "title": "Hello World from Rol!",
+            "summary": "Launching Study Rol! The best study guide for TOEFL.",
+            "content_html": "<p>Launching Study Rol! The best study guide for TOEFL.</p>",
+            "author": {
+                "name": "Rol"
+            },
+            "tags": [
+                   "TOEFL",
+                   "Others"
+            ],
+            "date_published": "2023-10-29T19:17:57+05:30",
+            "date_modified": "2023-10-29T20:34:36+05:30"
+        }
+    ]
+}
